@@ -1,20 +1,12 @@
-# 👋
+# Status
+![HyungHoKim00's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungHoKim00&show_icons=true&theme=radical)
+<br>
+<br>
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) </br></br>
-![HyungHoKim00's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungHoKim00&show_icons=true&theme=radical) </br></br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hkim1109)](https://solved.ac/hkim1109/) <br/>
+# Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hkim1109)](https://solved.ac/hkim1109/)
+<br>
+<br>
 
-<!--
-**HyungHoKim00/HyungHoKim00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Main Skill
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) 
